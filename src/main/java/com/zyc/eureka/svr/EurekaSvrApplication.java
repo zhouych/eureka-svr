@@ -11,6 +11,5 @@ public class EurekaSvrApplication {
 
 	public static void main(String[] args) {
 		new SpringApplicationBuilder(EurekaSvrApplication.class).web(WebApplicationType.SERVLET).run(args);
-		//SpringApplication.run(EurekaSvrApplication.class, args);
 	}
 }
