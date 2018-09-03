@@ -1,6 +1,5 @@
 This is a project about Srping Cloud (eureka).
 
-
 *** eureka:
 	http://blog.didispace.com/springcloud1/
 	https://blog.csdn.net/k21325/article/details/52789829
